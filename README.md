@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bassygoodluck
-- 👀 I’m interested in ... Javascript, React,node.js, Solidity and Web3 programming.
+- 👋 Hi, I’m Bassey Goodluck Gabriel
+- 👀 I’m a Javascript, React, Solidity and Web3 developer.
 - 🌱 I’m currently learning ... Smart Contracts development
 - 💞️ I’m looking to collaborate on ... Blockchain projects
 - 📫 How to reach me ... bassygoodluck@gmail.com
