@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bassey Goodluck Gabriel
 - 👀 I’m a Javascript, React, Solidity and Web3 developer.
-- 🌱 I’m currently learning ... Smart Contracts development
+- 🌱 I’m currently learning ... Smart Contracts Security
 - 💞️ I’m looking to collaborate on ... Blockchain projects
 - 📫 How to reach me ... bassygoodluck@gmail.com
 
