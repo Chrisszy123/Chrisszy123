@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bassey Goodluck Gabriel
-- 👀 I’m Fullstack Software Engineer, with 4years experience in Reactjs and Solidity.
+- 👀 I’m Fullstack Software Engineer, with 4years experience in Reactjs, nodejs, Solidity and GoLang.
 - 🌱 I’m currently learning ... Smart Contracts Security
 - 💞️ I’m looking to collaborate on ... Blockchain and AI projects
 - 📫 Email me: bassygoodluck@gmail.com, Discord: cryptoguy001
