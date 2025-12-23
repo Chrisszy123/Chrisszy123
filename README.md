@@ -5,8 +5,11 @@ I started my career deep in JavaScript, but as systems became more complex, high
 Over the past few years, I’ve built and shipped:
 
 -- Full-stack SaaS platforms with React, Node.js, and PostgreSQL
+
 -- High-performance backend services and tooling in Rust
+
 -- Web3 integrations including smart contract interactions and on-chain data pipelines
+
 -- AI-powered internal tools that automate workflows and improve developer velocity
 
 Outside day-to-day engineering, I share what I’m learning in public, breaking down system design decisions, Rust mental models, and real lessons from building and scaling products. Many of my posts come directly from problems I’ve solved in production or conversations with founders and engineers building under real constraints.
