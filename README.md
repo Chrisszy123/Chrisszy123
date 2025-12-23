@@ -3,6 +3,7 @@ I’m a Senior Full-Stack Engineer building scalable SaaS and Web3 products for 
 I started my career deep in JavaScript, but as systems became more complex, higher throughput, tighter latency, real money on the line, I leaned into Rust to build safer, faster backend services without sacrificing maintainability. That shift now shapes how I think about architecture: predictable systems, explicit trade-offs, and code that fails loudly instead of silently.
 
 Over the past few years, I’ve built and shipped:
+
 -- Full-stack SaaS platforms with React, Node.js, and PostgreSQL
 -- High-performance backend services and tooling in Rust
 -- Web3 integrations including smart contract interactions and on-chain data pipelines
