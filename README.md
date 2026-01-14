@@ -12,8 +12,6 @@ Over the past few years, I’ve built and shipped:
 
 -- AI-powered internal tools that automate workflows and improve developer velocity
 
-Outside day-to-day engineering, I share what I’m learning in public, breaking down system design decisions, Rust mental models, and real lessons from building and scaling products. Many of my posts come directly from problems I’ve solved in production or conversations with founders and engineers building under real constraints.
-
 If you’re building a SaaS, Web3, or AI-driven product and care about strong foundations, not just shipping fast, but shipping right, I’m always open to meaningful conversations.
 
 - Telegram: @bassygoodluck
