@@ -1,16 +1,6 @@
-I’m a Senior Full-Stack Engineer building scalable SaaS and Web3 products for startups and growth-stage companies, with a focus on performance, reliability, and clean system design. I work primarily with React, Rust, Node.js, and PostgreSQL to ship production-ready software used by real users.
+Senior Backend Engineer with 6+ years of experience building scalable, high-performance systems across Web2 and Web3. Skilled in Node.js, TypeScript, and Rust, with hands-on experience in distributed systems, real-time processing, and API architecture.
 
-I started my career deep in JavaScript, but as systems became more complex, higher throughput, tighter latency, real money on the line, I leaned into Rust to build safer, faster backend services without sacrificing maintainability. That shift now shapes how I think about architecture: predictable systems, explicit trade-offs, and code that fails loudly instead of silently.
-
-Over the past few years, I’ve built and shipped:
-
--- Full-stack SaaS platforms with React, Node.js, and PostgreSQL
-
--- High-performance backend services and tooling in Rust
-
--- Web3 integrations including smart contract interactions and on-chain data pipelines
-
--- AI-powered internal tools that automate workflows and improve developer velocity
+Experience working remotely with teams across New Zealand, the US, and Europe, delivering production systems focused on reliability, performance, and correctness.
 
 If you’re building a SaaS, Web3, or AI-driven product and care about strong foundations, not just shipping fast, but shipping right, I’m always open to meaningful conversations.
 
